@@ -1,0 +1,11 @@
+select option {
+    background-color: #93C572;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+select option:checked {
+    background-color: #93C572;
+  }
+    
+
